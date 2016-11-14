@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_none_choice"
+        android:title="只可点击"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_single_choice"
+        android:title="单选"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_mult_choice"
+        android:title="多选"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_max_chexked"
+        android:title="最多选中3个"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_clear"
+        android:title="清空选择项"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_update"
+        android:title="更新"
+        app:showAsAction="never" />
+
+</menu>

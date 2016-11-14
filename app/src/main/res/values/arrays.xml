@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lol">
+        <item>机械公敌</item>
+        <item>永恒梦魇</item>
+        <item>暗夜猎手</item>
+        <item>阿木木</item>
+        <item>德玛西亚之力</item>
+        <item>恶魔小丑</item>
+        <item>远古巫灵</item>
+        <item>蔚</item>
+        <item>诡术妖姬</item>
+        <item>发条魔灵</item>
+        <item>德玛西亚皇子</item>
+        <item>盲僧</item>
+        <item>慎</item>
+        <item>加里奥</item>
+        <item>茂凯</item>
+        <item>卡西奥佩娅</item>
+        <item>提百万</item>
+        <item>阿里斯塔</item>
+        <item>瑟庄妮</item>
+        <item>沃利贝尔</item>
+        <item>杰斯</item>
+        <item>凯尔</item>
+    </string-array>
+
+    <string-array name="lol_update">
+        <item>机械先驱</item>
+        <item>狼外婆</item>
+        <item>宗师级法师训练师</item>
+        <item>赵信</item>
+        <item>格雷福斯</item>
+        <item>岩雀</item>
+        <item>魂锁典狱长</item>
+        <item>巴德</item>
+    </string-array>
+
+</resources>
